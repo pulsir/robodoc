@@ -1,0 +1,2 @@
+<h3>Linking</h3>
+<p>To link to a category, use <code class="inline">index.php?file=CATEGORY_NAME</code>, and to link to an article, use <code class="inline">index.php?file=CATEGORY_NAME/ARTICLE_NAME</code>, without any extensions in the URL (don't include the .php in the article name)</p>

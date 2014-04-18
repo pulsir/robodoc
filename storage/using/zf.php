@@ -1,0 +1,2 @@
+<h3>Feedback?</h3>
+<p>I think that covers Robodoc well. If you have any questions, suggestions or concerns, feel free to discuss them in <a href="http://reddit.com/r/robodoc">our subreddit</a> or shoot me an email over at <a href="mailto:mbm@pulsir.eu">mbm@pulsir.eu</a>. Stay awesome, awesomegator. <!-- oh my god that was a horrible pun --> </p>
